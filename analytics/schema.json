@@ -1,0 +1,16 @@
+{
+    "events": {
+        "session_start": {
+            "description": "User starts a practice session"
+        },
+        "caption_chunk": {
+            "description": "Received a caption chunk"
+        },
+        "session_end": {
+            "description": "User ends session"
+        },
+        "error": {
+            "description": "Application error occurred"
+        }
+    }
+}

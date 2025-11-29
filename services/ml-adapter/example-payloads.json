@@ -1,0 +1,11 @@
+/* GENERATED_BY: Antigravity MLAdapterAgent */
+{
+    "caption": {
+        "text": "Hello world",
+        "confidence": 0.99
+    },
+    "chat": {
+        "role": "assistant",
+        "content": "Good job!"
+    }
+}
